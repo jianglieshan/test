@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zhongjin.WinLottery.fixios8</string>
+				<string>com.zhongjin.WinLottery</string>
 				<key>bundle-version</key>
 				<string>1.8</string>
 				<key>kind</key>
